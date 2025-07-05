@@ -21,6 +21,8 @@ Tested with:
   * Warframe
 
 Notes
-This project can be extended or modified for other games.
-
-Key mappings may need to be adjusted depending on your system and in-game settings.
+ * This project can be extended or modified for other games.
+ 
+ * Key mappings may need to be adjusted depending on your system and in-game settings.
+ 
+ * It uses the esp32-s3-devkitm-1, but you can use any ESP32 with USB-function.
